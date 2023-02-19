@@ -3,7 +3,7 @@
 
 Perkenalkan nama saya **Muhammad Raihan Aufa Kamal**.
 
-Saya seorang **Mahasiswa** di [Universitas Sriwijaya](https://unsri.ac.id/) Jurusan Teknik Informatika.
+Saya seorang **Mahasiswa di [Universitas Sriwijaya](https://unsri.ac.id/) Jurusan Teknik Informatika**.
 
 Saya juga memiliki gelar [Google Associate Android Developer](https://www.dicoding.com/certificates/QLZ92OQREX5D) sejak 2023.
 
