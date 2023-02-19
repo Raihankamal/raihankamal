@@ -1,5 +1,15 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
+# Halo semua! 👋
 
+Perkenalkan nama saya **Muhammad Raihan Aufa Kamal**.
+
+Saya seorang **Mahasiswa** di [Universitas Sriwijaya](https://unsri.ac.id/) Jurusan Teknik Informatika.
+
+Saya juga memiliki gelar [Google Associate Android Developer](https://www.dicoding.com/certificates/QLZ92OQREX5D) sejak 2023.
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/muhammad-raihan-aufa-kamal-8155561b9/)ku ya.
+
+Terima Kasih 😄
 <!--
 **Raihankamal/raihankamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
