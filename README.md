@@ -16,7 +16,7 @@ Terima Kasih 😄
 - 💬 Feel free to Ask me about Mobile developer and Kotlin
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/muhammad-raihan-aufa-kamal-8155561b9/)
 - ⚡ Fun fact: Pemuja Mahiiru "Angel" Shiina
-<img height="180em" src="https://shikimori.me/uploads/poster/characters/193569/main_2x-49544b65f9250cc3477cfd20d27f85a1.webp"/>
+<img height="180em" src="https://i.pinimg.com/originals/01/c5/4d/01c54daefc24a78de8ff4f6ce8dd011d.jpg"/>
   
 ### Github Statistic
 <p align="left">
