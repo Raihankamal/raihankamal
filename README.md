@@ -15,7 +15,7 @@ Terima Kasih 😄
 - 🌱 I’m currently learning about Mobile Development
 - 💬 Feel free to Ask me about Mobile developer and Kotlin
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/muhammad-raihan-aufa-kamal-8155561b9/)
-- ⚡ Fun fact: Pemuja Mahiiru "Angel" Shiina
+- ⚡ Fun fact: Pemuja Kaoruko Waguri
 <img height="180em" src="https://i.pinimg.com/originals/01/c5/4d/01c54daefc24a78de8ff4f6ce8dd011d.jpg"/>
   
 ### Github Statistic
